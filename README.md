@@ -1,4 +1,4 @@
-# Hotel Review Sentiment Analysis
+# Hotel Review Sentiment Analysis - College Project
 
 The project is a sentiment analyser which takes hotel reviews as an input and produces a sentiment of positive or negative.
 
@@ -92,3 +92,7 @@ The application was hosted on  https://sentiment-analysis-kadum.herokuapp.com/
 -	Pickle : Pickle is a module in Python used for serializing and de-serializing Python objects.
 -	Nltk : NLTK is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries
 -	Re : Regular expression in python
+
+### © [kadumkomut](https://kadmon47.github.io/kadumkomut/)
+
+# Happy Coding
